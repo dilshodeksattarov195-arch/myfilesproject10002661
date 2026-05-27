@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerfender",
+        "uuid": 4608852,
+        "checksum": "wgy9r"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
